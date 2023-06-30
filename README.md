@@ -4,7 +4,7 @@
 &emsp; Right now it is able to simulate Bubble Sort, Quick Sort and Heap Sort. <br/>
 &emsp; Every two columns that are swapped at a certain frame are coloured in green, the rest of the columns are coloured from lighter blue to darker blue, <br/>
 depending on the value they represent. <br/>
-&emsp; Once the whole array has been sorted, the program colours all the columns in green, starting from the smalles column (left) to the biggest one (right). <br/>
+&emsp; Once the whole array has been sorted, the program colours all the columns in green, starting from the smallest column (left) to the biggest one (right). <br/>
 
 <p align = "center">
   1. Bubble Sort, complexity O(n<sup>2</sup>) <br/>
