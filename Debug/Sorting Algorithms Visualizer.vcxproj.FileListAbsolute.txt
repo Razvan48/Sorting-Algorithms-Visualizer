@@ -1,0 +1,2 @@
+C:\Users\razvan\Desktop\Sorting Algorithms Visualizer\Debug\Sorting Algorithms Visualizer.exe
+C:\Users\razvan\Desktop\Sorting Algorithms Visualizer\Debug\Sorting Algorithms Visualizer.pdb

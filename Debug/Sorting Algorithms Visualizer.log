@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\razvan\Desktop\Sorting Algorithms Visualizer\main.cpp(375,45): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+C:\Users\razvan\Desktop\Sorting Algorithms Visualizer\main.cpp(375,31): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+  Sorting Algorithms Visualizer.vcxproj -> C:\Users\razvan\Desktop\Sorting Algorithms Visualizer\Debug\Sorting Algorithms Visualizer.exe
